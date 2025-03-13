@@ -23,6 +23,7 @@ Here’s how the project is organized:
 - **`data/`**: Raw dataset (`sales_data.csv`) and processed data (`engineered_sales_data.csv`).
 - **`images/`**: 9 visualization outputs (used as presentation slides).
 - **`requirements.txt`**: List of Python dependencies to run the project.
+- **`notebooks/`**: Contains the Jupyter Notebook (`Sinoxin-Sales-Optimization-Predictioin.ipynb`) with the full analysis.
 - **`README.md`**: You’re reading it!
 
 ---
