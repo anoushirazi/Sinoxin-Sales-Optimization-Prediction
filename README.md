@@ -1,6 +1,7 @@
 # Sinoxin-Sales-Optimization-Prediction 📈💼
+## Overview
 
-Welcome to **Sales-Optimizer-Analysis**, a data science project designed to unlock the power of sales data for smarter business decisions. Using Python, I’ve performed in-depth analysis, built predictive models, and delivered actionable insights to optimize profitability, inventory, and customer strategies. This project showcases my skills in data analysis, machine learning, and business intelligence—perfect for driving real-world impact.
+Welcome to **Sinoxin-Sales-Optimization-Prediction**, a data analysis project designed to unlock the power of sales data for smarter business decisions. Using Python, I’ve performed in-depth analysis, built predictive models, and delivered actionable insights to optimize profitability, inventory, and customer strategies. This project showcases my skills in data analysis, machine learning, and business intelligence—perfect for driving real-world impact.
 
 ---
 
@@ -67,11 +68,10 @@ Here’s how the insights can drive business value:
 
 ## 📋 How to Run the Project
 
-Follow these steps to explore the analysis yourself:
 
 1. **Clone the Repository:**
-   - Use GitHub Desktop: Click “Clone a Repository” and select `Sales-Optimizer-Analysis`.
+   - Use GitHub Desktop: Click “Clone a Repository” and select `Sinoxin-Sales-Optimization-Prediction`.
    - Or use the command line:
      ```bash
-     git clone https://github.com/[YourUsername]/Sales-Optimizer-Analysis.git
-     cd Sales-Optimizer-Analysis
+     git clone https://github.com/anoushirazi/Sinoxin-Sales-Optimization-Prediction.git
+     cd Sinoxin-Sales-Optimization-Prediction
